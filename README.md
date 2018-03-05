@@ -27,3 +27,4 @@ pipenv run tap-text -c example_data/json_config.json | $(pipenv --venv)/bin/sing
 
 - Optimization. Presently the code makes a complete first pass over the input data to build a schema, but the input data may be homogeneous enough that sampling every nth row could accurately describe the structure.
 - Better Grok support. Perhaps give the ability to define a set of grok patterns and define them per-directory. Also have better handling of newlines in the source logs. E.g. a stacktrace may get logged over many lines but you'd want all those lines to be part of a single log entry.
+- Refactor
