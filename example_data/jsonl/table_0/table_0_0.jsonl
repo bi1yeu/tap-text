@@ -1,0 +1,4 @@
+{"name": "Matt", "birthday": "1900-01-01T00:00:00Z", "is_cool": true, "pets": [{"name": "Vincenzo", "species": "betta fish", "age": 0.5}]}
+{"name": "Anne", "birthday": null, "is_cool": true, "pets": [{"name": "Buzz", "species": "bee", "age": 0.01},{"name": "Honey", "species": "bee", "age": 0.01}]}
+{"name": "Ronald", "birthday": "1911-02-06T00:00:00Z", "is_cool": true, "pets": [{"name": "Peanut", "species": "dog", "age": 4}]}
+{"name": "Shaun", "birthday": null, "is_cool": true, "pets": []}

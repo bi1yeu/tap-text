@@ -1,0 +1,5 @@
+{
+  "directories": [ "/opt/code/tap-text/example_data/jsonl/table_0" ],
+  "rec_hash_keys": true,
+  "file_format": "jsonl"
+}

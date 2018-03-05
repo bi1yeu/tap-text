@@ -1,0 +1,5 @@
+{
+  "directories": [ "/opt/code/tap-text/example_data/csv/items" ],
+  "rec_hash_keys": true,
+  "file_format": "csv"
+}
