@@ -1,5 +1,5 @@
 {
-  "directories": [ "/opt/code/tap-text/example_data/log/mylog"],
+  "directories": [ "./example_data/log/mylog"],
   "file_format": "log",
   "grok_pattern": "^%{TIMESTAMP_ISO8601:timestamp}\\s+%{LOGLEVEL:level}\\s+\\[%{USERNAME:thread}\\]\\s+%{USERNAME:namespace}\\s+-\\s+%{GREEDYDATA:message_text}"
 }

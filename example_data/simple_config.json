@@ -1,4 +1,4 @@
 {
-  "directories": [ "/opt/code/tap-text/example_data/simple" ],
+  "directories": [ "./example_data/simple" ],
   "file_format": "jsonl"
 }
